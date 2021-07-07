@@ -1,4 +1,4 @@
-package com.sovanm.profiles.controller;
+package com.gvlab.profiles.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

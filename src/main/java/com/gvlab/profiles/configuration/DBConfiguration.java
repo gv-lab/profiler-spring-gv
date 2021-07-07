@@ -1,4 +1,4 @@
-package com.sovanm.profiles.configuration;
+package com.gvlab.profiles.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

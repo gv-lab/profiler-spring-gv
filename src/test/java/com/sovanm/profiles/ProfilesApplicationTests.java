@@ -1,4 +1,4 @@
-package com.sovanm.profiles;
+package com.gvlab.profiles;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
